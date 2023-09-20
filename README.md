@@ -9,6 +9,8 @@
 
 ## Capturas
 
+* Completar con las credenciales necesarias en el archivo terraform.tfvars
+
 * Ejecución del comando:
 
         aws ec2 describe-instances --instance-ids i-06bc9a0d5407ce982 --region us-east-
